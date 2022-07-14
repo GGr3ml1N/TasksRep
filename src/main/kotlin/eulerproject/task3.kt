@@ -1,4 +1,4 @@
-package tasks
+package eulerproject
 
 /**
  * Простые делители числа 13195 - это 5, 7, 13 и 29.

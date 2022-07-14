@@ -1,4 +1,4 @@
-package tasks
+package eulerproject
 
 /**
  * Если выписать все натуральные числа меньше 10, кратные 3 или 5,
